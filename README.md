@@ -17,7 +17,7 @@
 </div>
 <h1 align="center">
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTh2eTB6aGZkaTN0NzgycHU0ZGxpazJtOHUweXY2YmtjbndlcXk4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="600" height="300"/>
@@ -50,5 +50,5 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 :fire: My Stats :<br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdulMoazzim&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMoazzim)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulMoazzim&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
 
