@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXVwZDYzZDV3bjRueGdycGh1aDA3eGszOXlkenZkZTVuZGM0bndiZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/abdul-moazzim-6453662b0">
+  <a href="[www.linkedin.com/in/abdul-moazzim-6453662b0](https://www.linkedin.com/in/abdul-moazzim-6453662b0/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/abdul__moazzam/">
@@ -33,7 +33,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems on HackerRank and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AbdulMoazzim-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/abdul-moazzim-6453662b0)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AbdulMoazzim-blue?style=flat&logo=Linkedin&logoColor=white)]([www.linkedin.com/in/abdul-moazzim-6453662b0](https://www.linkedin.com/in/abdul-moazzim-6453662b0/))
 <hr>
 
 :hammer_and_wrench: Languages and Tools :<br>
