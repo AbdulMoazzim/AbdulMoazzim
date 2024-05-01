@@ -27,7 +27,7 @@
 :man_technologist: About Me :<br>
 I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Karachi, Pakistan.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend for building web applications.
+- :telescope: I’m contributing to frontend for building web applications.
 
 - :seedling: Exploring JS Frameworks.
 
